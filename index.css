@@ -55,3 +55,44 @@ h3{
     border: 5px solid gold;
     border-radius:5px;
 }
+body{
+    background-color: #000059;
+    }
+body{
+    font-family: cursive;
+    }
+#begin{
+    background-color: white;
+    text-align: center;
+    border: 3px gold solid;
+    margin: 10px;
+    }
+#sports{
+    background-color: white;
+    padding: 0px 10px 0px 10px;
+    border: 3px gold solid;
+    }
+#clubs{
+    margin: 10px;
+    background-color: white;
+    padding: 0px 10px 0px 10px;
+    border: 3px gold solid;
+    }
+#first-pic{
+    width: 12%;
+    display: inline; 
+    float: left;
+    }
+#second-pic{
+    width: 12%;
+    float: right;
+    position: absolute;
+    top: 15px;
+    right: 25px;
+    }
+.nav{
+    margin: 10px;
+    color: #000059;
+    border-color: gold;
+    text-align: center;
+    }
