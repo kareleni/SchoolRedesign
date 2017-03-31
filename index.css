@@ -41,4 +41,21 @@ html{
 a{
     color: black;
     }
+h1{
+   color:#000059;
+   background-color:gold;
+   text-align:center;
+}
+h3{
+    color:#000059;
+    background:gold;
+    height:75%;
+    padding:5em;
+    margin:25px;
+    border: 5px solid white;
+    border-radius:5px;
+}
+html{
+ background:navy;   
+}
 
